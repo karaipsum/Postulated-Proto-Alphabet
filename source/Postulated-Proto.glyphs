@@ -4711,7 +4711,7 @@ unicode = 108;
 glyphname = m;
 kernLeft = j;
 kernRight = m;
-lastChange = "2024-05-16 03:55:25 +0000";
+lastChange = "2024-05-16 04:36:50 +0000";
 layers = (
 {
 backgroundImage = {
@@ -5340,7 +5340,7 @@ unicode = 113;
 glyphname = r;
 kernLeft = i;
 kernRight = r;
-lastChange = "2024-05-16 04:07:24 +0000";
+lastChange = "2024-05-16 04:36:30 +0000";
 layers = (
 {
 backgroundImage = {
@@ -12667,7 +12667,8 @@ quotesingle = -100;
 };
 "@MMK_L_o" = {
 "@MMK_R_h" = -25;
-"@MMK_R_j" = 20;
+"@MMK_R_i" = -20;
+"@MMK_R_j" = 0;
 "@MMK_R_q" = -20;
 six = -20;
 };
