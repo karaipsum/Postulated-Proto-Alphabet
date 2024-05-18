@@ -12,7 +12,7 @@
 ## 字符预览
 
 ![字母表](preview/Glyphs.svg)
-当前支持：（字符集与 [我制作的艾欧泽亚字体](https://github.com/karaipsum/Eorzean-Typeface) 一致）
+当前支持：（字符集与我制作的[艾欧泽亚字体](https://github.com/karaipsum/Eorzean-Typeface)一致）
 - 基础拉丁字母 (A-Z, a-z)
 - 带变音符号的拉丁字母 (对🇫🇷 🇩🇪 等语言的支持)
 - 数字 (0-9)
@@ -26,7 +26,7 @@
 
 手工调节了字偶间距设定以提高可读性。可以在你喜欢的设计软件中选择“原始设定”以启用。
 
-与[我制作的艾欧泽亚字体](https://github.com/karaipsum/Eorzean-Typeface)相比，字偶间距设定会偏宽松。
+与[艾欧泽亚字体](https://github.com/karaipsum/Eorzean-Typeface)相比，字偶间距设定会偏宽松。
 
 ## Opentype 特性支持（默认关闭）
 
