@@ -1,6 +1,14 @@
 {
 .appVersion = "3260";
 .formatVersion = 3;
+DisplayStrings = (
+"Postulate Proto-Alphabet
+The World Unsundered
+The Gates of Pandaemonium
+Peripeteia Krystalline
+Fandaniel
+0123456789"
+);
 classes = (
 {
 automatic = 1;
@@ -3675,7 +3683,7 @@ color = 4;
 glyphname = ae;
 kernLeft = a;
 kernRight = o;
-lastChange = "2024-05-16 03:18:20 +0000";
+lastChange = "2024-05-18 19:19:28 +0000";
 layers = (
 {
 layerId = m002;
@@ -3723,11 +3731,10 @@ pos = (238,-70);
 ref = _smart.horizontalBar;
 }
 );
-width = 913;
+width = 898;
 }
 );
 metricLeft = a;
-metricRight = e;
 unicode = 230;
 },
 {
@@ -4711,7 +4718,7 @@ unicode = 108;
 glyphname = m;
 kernLeft = j;
 kernRight = m;
-lastChange = "2024-05-16 04:36:50 +0000";
+lastChange = "2024-05-18 19:19:54 +0000";
 layers = (
 {
 backgroundImage = {
@@ -5186,7 +5193,7 @@ unicode = 339;
 glyphname = p;
 kernLeft = i;
 kernRight = o;
-lastChange = "2024-05-16 04:00:19 +0000";
+lastChange = "2024-05-18 19:17:54 +0000";
 layers = (
 {
 backgroundImage = {
@@ -12635,17 +12642,16 @@ h = -60;
 "@MMK_R_i" = -40;
 "@MMK_R_u" = -20;
 k = -60;
-six = -20;
 };
 "@MMK_L_k" = {
 "@MMK_R_b" = -20;
 "@MMK_R_h" = -30;
-six = -20;
 };
 "@MMK_L_l" = {
 "@MMK_R_a" = -30;
 "@MMK_R_e" = -30;
 "@MMK_R_h" = -40;
+"@MMK_R_i" = -20;
 "@MMK_R_q" = -30;
 "@MMK_R_t" = 20;
 };
@@ -12668,9 +12674,8 @@ quotesingle = -100;
 "@MMK_L_o" = {
 "@MMK_R_h" = -25;
 "@MMK_R_i" = -20;
-"@MMK_R_j" = 0;
+"@MMK_R_j" = -20;
 "@MMK_R_q" = -20;
-six = -20;
 };
 "@MMK_L_r" = {
 "@MMK_R_b" = -60;
@@ -12724,7 +12729,8 @@ M?
 m?
 
 2024-05-15 1.000
-- All glyphs reworked based on Augmented Neo-Eorzean, sharing mostly the same metrics";
+- All glyphs reworked based on Augmented Neo-Eorzean, sharing mostly the same metrics
+- Applied a loose kerning style, resulting in less kerning pairs";
 properties = (
 {
 key = copyrights;
