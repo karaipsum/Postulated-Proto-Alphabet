@@ -2,3 +2,4 @@
 *.ai
 *.psd
 ignore/*.*
+ignore/images/*.*
