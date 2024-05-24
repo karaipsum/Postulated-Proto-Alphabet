@@ -57,7 +57,7 @@ Below are currently supported Opentype features. They are based on my personal i
 
 ## Source
 
-- Postulated Proto-Alphabet from [_Encyclopaedia Eorzea III_](https://sqex.to/Snrq9)
+- Postulated Proto-Alphabet from [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/Snrq9) p.52
 - [Glyph reference table](https://weibo.com/3506214112/NkPbor2Iz) by [Celes](https://club.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E9%A9%BE%E9%A9%B6%E5%AE%A4#/user/45979/main)（[@时与悠可](https://weibo.com/u/3506214112)）
 
 ## License
@@ -65,6 +65,13 @@ Below are currently supported Opentype features. They are based on my personal i
 All company, product, and system names mentioned herein are trademarks or registered trademarks of their respective companies.
 
 Augmented Postulated Proto-Alphabet is licensed under the [MIT](LICENSE) License.
+
+## Project
+
+- [Augmented Neo-Eorzean](https://github.com/karaipsum/Eorzean-Typeface)
+- [Augmented Far Eastern Script](https://github.com/karaipsum/Kugane-Moji)
+- [Augmented Postulated Proto-Alphabet](https://github.com/karaipsum/Postulated-Proto-Alphabet)
+- [Augmented Norvrandt](https://github.com/karaipsum/Norvrandt-Typeface)
 
 ## Footnote
 

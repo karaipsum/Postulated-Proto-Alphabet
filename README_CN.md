@@ -57,7 +57,7 @@
 
 ## 参考与来源
 
-- Postulated Proto-Alphabet（推定古代文字）字母表 [_Encyclopaedia Eorzea III_](https://sqex.to/Snrq9) | 《艾欧泽亚百科全书III》（暂未公布）
+- Postulated Proto-Alphabet（推定古代文字）字母表 [_Encyclopaedia Eorzea III - The World of FINAL FANTASY XIV -_](https://sqex.to/Snrq9) p.52 | 《艾欧泽亚百科全书III》（暂未公布）
 - [Celes](https://club.huijiwiki.com/wiki/%E7%89%B9%E6%AE%8A:%E9%A9%BE%E9%A9%B6%E5%AE%A4#/user/45979/main)（[@时与悠可](https://weibo.com/u/3506214112)）老师制作的[英文/艾欧泽亚文字/“被预测为”古代文字的字符对照表](https://weibo.com/3506214112/NkPbor2Iz)
 
 ## 授权
@@ -65,6 +65,13 @@
 此处提及的所有公司、产品和系统名称均为其各自公司的商标或注册商标。
 
 改良型古代文字以 [MIT](LICENSE) License 开源。
+
+## 工程
+
+- [改良型新式艾欧泽亚文字](https://github.com/karaipsum/Eorzean-Typeface)
+- [改良型东方文字](https://github.com/karaipsum/Kugane-Moji)
+- [改良型古代文字](https://github.com/karaipsum/Postulated-Proto-Alphabet)
+- [改良型诺弗兰特文字](https://github.com/karaipsum/Norvrandt-Typeface)
 
 ## 尾声
 
