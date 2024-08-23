@@ -24046,6 +24046,10 @@ key = manufacturerURL;
 value = "https://linktr.ee/catloaf97";
 },
 {
+key = postscriptFontName;
+value = "APProtoAlphabet-Rg";
+},
+{
 key = sampleTexts;
 values = (
 {
@@ -24054,6 +24058,10 @@ value = "Well come and well met, my brave little spark
 How long you've wandered, burned bright as a star";
 }
 );
+},
+{
+key = vendorID;
+value = CTLF;
 }
 );
 settings = {
@@ -24077,5 +24085,5 @@ HV = "87";
 };
 };
 versionMajor = 1;
-versionMinor = 35;
+versionMinor = 36;
 }
